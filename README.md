@@ -1,4 +1,5 @@
 #Visualizations with Matplotlib and Seaborn
+####This is my internship 2nd project/task
 
 ## Overview
 This notebook demonstrates the creation of bar charts and scatter plots using Matplotlib and Seaborn libraries in Python.
@@ -17,5 +18,5 @@ You can install these packages using:
 ```bash
 pip install matplotlib seaborn
 
-####This is my internship 2nd project/task
+
 
