@@ -1,4 +1,4 @@
-#Visualizations with Matplotlib and Seaborn
+**#Visualizations with Matplotlib and Seaborn**
 ####This is my internship 2nd project/task
 
 ## Overview
